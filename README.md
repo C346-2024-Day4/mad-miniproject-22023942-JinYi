@@ -3,7 +3,7 @@
 -----------
  
 ## What is this app about?
- This app is a budget app which helps you to keep track of your purchases and your income. This will help you to save your moeny by checking if it exceeded your budget or not.
+ This app is a budget app which helps you to keep track of your purchases and your income. This will help you to save your money by checking if it exceeded your budget or not.
  
 ### Notable features of the app
 - Bar Chart of Monthly Summary of Deficit
